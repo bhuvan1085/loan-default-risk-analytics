@@ -1,11 +1,6 @@
 # 🏦 Loan Default Risk Analytics
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0%2B-green.svg)](https://pandas.pydata.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-yellow.svg)](https://powerbi.microsoft.com/)
-[![SQL](https://img.shields.io/badge/SQL-SQLite%2FPostgreSQL-orange.svg)](https://www.sqlite.org/)
-
-An end-to-end Data Analytics project using **Python, SQL, and Power BI** to analyze loan default risk, uncover business insights, and build interactive dashboards for credit risk assessment.
+An end-to-end Data Analytics project using Python, SQL, and Power BI to analyze loan default risk, uncover business insights, and build interactive dashboards for credit risk assessment.
 
 ---
 
@@ -19,15 +14,6 @@ Banks and financial institutions lose billions annually due to loan defaults. Th
 - **Understand** factors contributing to defaults
 - **Enable** data-driven lending decisions
 - **Reduce** financial losses through early intervention
-
-### 📈 Key Metrics Tracked
-| Metric | Description |
-|--------|-------------|
-| **Default Rate** | Percentage of loans that defaulted |
-| **Average Loan Amount** | Mean loan value across all customers |
-| **Average Credit Score** | Mean credit score of borrowers |
-| **Recovery Rate** | Percentage of defaulted loans recovered |
-| **Risk Segmentation** | Customer groups by risk level |
 
 ---
 
@@ -55,7 +41,7 @@ loan-default-risk-analytics/
 ├── src/ # Python scripts
 │ ├── data_loader.py # Load and explore data
 │ ├── data_cleaner.py # Data cleaning functions
-│ └── eda.py # Exploratory analysis (coming soon)
+│ └── eda.py # Exploratory analysis
 │
 ├── sql/ # SQL queries
 │ └── analysis_queries.sql # Business analysis queries
@@ -88,5 +74,5 @@ loan-default-risk-analytics/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/loan-default-risk-analytics.git
+git clone https://github.com/bhuvan1085/loan-default-risk-analytics.git
 cd loan-default-risk-analytics
