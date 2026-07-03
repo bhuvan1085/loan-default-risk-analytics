@@ -76,3 +76,25 @@ loan-default-risk-analytics/
 ```bash
 git clone https://github.com/bhuvan1085/loan-default-risk-analytics.git
 cd loan-default-risk-analytics
+
+## 📊 Dashboard Previews
+
+### 1. Executive Dashboard
+*High-level KPIs and business metrics*
+![Executive Dashboard](images/executive-dashboard.png)
+
+### 2. Risk Analysis Dashboard
+*Risk segmentation by education, employment, and demographics*
+![Risk Analysis](images/risk-analysis.png)
+
+### 3. Loan Analytics Dashboard
+*Loan performance and distribution analysis*
+![Loan Analytics](images/loan-analytic.png)
+
+### 4. Customer Insights Dashboard
+*Customer demographics and behavior patterns*
+![Customer Insights](images/customer-insights.png)
+
+### 5. What-If Analysis Dashboard
+*Scenario planning and interest rate impact analysis*
+![What-If Analysis](images/whatif-analysis.png)
