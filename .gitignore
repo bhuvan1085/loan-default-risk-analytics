@@ -18,7 +18,7 @@ data/processed/*.csv
 *.csv
 
 # Power BI
-*.pbix
+#*.pbix
 
 # IDE
 .vscode/
